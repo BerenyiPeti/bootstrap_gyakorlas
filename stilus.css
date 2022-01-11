@@ -1,0 +1,23 @@
+main, header, nav, article, aside, footer, div{
+    border: 1px solid gray;
+}
+
+body{
+    background-image: url("kepek/hatter.jpg");
+}
+
+main{
+    background-color: white;
+}
+
+.row{
+    margin: auto;
+}
+
+img{
+    width: 100%;
+}
+
+.kepek{
+    border: 0px;
+}
